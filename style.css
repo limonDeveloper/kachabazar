@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.row{
+    margin-left: 30px;
+}
+span{
+    margin-left: 100px;
+}
+.logo{
+    width: 50px;
+}
+span.ton{
+    margin-left: 10px;
+    
+}
+/* .ranner{
+    box-shadow: 5px -5px 10px blue, -5px 5px 10px blue;
+} */
